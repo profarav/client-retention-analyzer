@@ -64,10 +64,9 @@ We'd love to have you back. Book this week and we'll take 15% off."
 
 ---
 
-## Why This Matters for GlossGenius
+## Why This Matters 
 
-GlossGenius already handles booking and scheduling. The harder problem is **keeping clients coming back**. Most salon owners don't know who's slipping away until it's too late — and writing personalized outreach for every client manually isn't realistic.
-
+Most salon owners don't know who's slipping away until it's too late — and writing personalized outreach for every client manually isn't realistic.
 This tool is an AI-first approach to that problem: paste your data, get instant retention intelligence and ready-to-send messages. No spreadsheets, no guesswork.
 
 ---
