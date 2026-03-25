@@ -2,8 +2,6 @@
 
 A tool for beauty and wellness professionals to identify at-risk clients and automatically generate personalized re-engagement messages using AI.
 
-Built as a demo for GlossGenius — exploring how AI can help small business owners reduce churn without any manual effort.
-
 ---
 
 ## What It Does
