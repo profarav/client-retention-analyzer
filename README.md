@@ -1,6 +1,6 @@
 # AI Client Retention Analyzer
 
-A tool for beauty and wellness professionals to identify at-risk clients and automatically generate personalized re-engagement messages using AI.
+A tool for professionals to identify at-risk clients and automatically generate personalized re-engagement messages using AI.
 
 ---
 
